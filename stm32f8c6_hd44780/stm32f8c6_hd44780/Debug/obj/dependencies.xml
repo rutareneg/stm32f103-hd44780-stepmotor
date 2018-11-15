@@ -90,10 +90,10 @@
       <source file="..\..\..\stm_lib\inc\stm32f10x_crc.h" lastModified="166a85310a0">
          <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
       </source>
-      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="166a85310a0">
+      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="166a85310a0">
          <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
       </source>
-      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="166a85310a0">
+      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="166a85310a0">
          <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
       </source>
       <source file="..\..\..\cmsis\core_cm3.h" lastModified="166a8530cb8">
@@ -104,10 +104,10 @@
       </source>
       <source file="..\..\..\syscalls\syscalls.c" lastModified="166a8532810">
       </source>
+      <source file="..\..\..\main.h" lastModified="167112306c2">
+      </source>
       <source file="..\..\..\stm_lib\src\stm32f10x_crc.c" lastModified="166a85310a0">
          <include file="..\..\..\stm_lib\inc\stm32f10x_crc.h"/>
-      </source>
-      <source file="..\..\..\main.h" lastModified="167112306c2">
       </source>
       <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="166a85310a0">
          <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>

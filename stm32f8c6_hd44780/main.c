@@ -403,11 +403,11 @@ int main(void)
  		TIM_ClearITPendingBit (TIM4, TIM_IT_Update );
 
  			if(!L){	//DRIV пока нажата кнопка
-
+ 				if(!DR){PUT++;}else {PUT--;} //счетаем пройденый путь
  				if(PER > PER_MIN && DRIV){if(PER > STEP+(PER/AX)) {PER = PER - (PER/AX++);}/* else{PER=(PER/AX);}*/} //положительное ускорение до максим скорость
  			    if(!DRIV){if(PER < NPER-(PER/AX)){ PER = PER + (PER/AX--);}
  			    				else {TIM_Cmd (TIM4, DISABLE); STP;PER=0;BipStop();return;}} //отрицательно ускорение до миним скорость
- 			    if(!DR){PUT++;}else {PUT--;} //счетаем пройденый путь
+
  			}
  			else{
  				//if(!L){TIM_Cmd (TIM4, DISABLE);STP;PER=0;BipStop(); return;} //останавливаем , выходим
