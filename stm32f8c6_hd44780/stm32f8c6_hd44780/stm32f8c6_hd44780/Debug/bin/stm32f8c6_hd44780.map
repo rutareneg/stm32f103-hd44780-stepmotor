@@ -1,0 +1,1343 @@
+Archive member included because of file (symbol)
+
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+                              ..\obj\main.o (pow)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__ieee754_pow)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o) (__ieee754_sqrt)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o) (fabs)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (finite)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__fpclassifyd)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__fdlib_version)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (matherr)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o) (nan)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (rint)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o) (scalbn)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o) (copysign)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              ..\obj\main.o (__aeabi_dsub)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__aeabi_dmul)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__aeabi_dcmpeq)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                              ..\obj\main.o (__aeabi_d2iz)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+                              ..\obj\main.o (__aeabi_d2uiz)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+                              ..\obj\main.o (__aeabi_d2f)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                              ..\obj\main.o (__aeabi_fsub)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                              ..\obj\prtf.o (__aeabi_fmul)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                              ..\obj\main.o (__aeabi_fcmpeq)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                              ..\obj\main.o (__aeabi_f2iz)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                              ..\obj\prtf.o (__aeabi_f2uiz)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o) (__errno)
+d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                              d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o) (_impure_ptr)
+
+Allocating common symbols
+Common symbol       size              file
+
+STEP                0x2               ..\obj\stepmotor.o
+EN                  0x1               ..\obj\stepmotor.o
+ILL0                0x1               ..\obj\key.o
+S                   0x1               ..\obj\stepmotor.o
+DR                  0x1               ..\obj\stepmotor.o
+PER                 0x2               ..\obj\stepmotor.o
+ILL1                0x1               ..\obj\key.o
+ILLR                0x1               ..\obj\key.o
+set_time            0xc               ..\obj\syscalls.o
+REG                 0x1               ..\obj\key.o
+Line                0x4               ..\obj\stepmotor.o
+d                   0x4               ..\obj\main.o
+buf                 0xa               ..\obj\main.o
+adr                 0x4               ..\obj\stepmotor.o
+RAZ                 0x1               ..\obj\key.o
+keys                0x1               ..\obj\main.o
+m                   0x1               ..\obj\main.o
+unix_time           0xc               ..\obj\syscalls.o
+OB_P                0x4               ..\obj\main.o
+AX                  0x2               ..\obj\main.o
+PER_MIN             0x2               ..\obj\main.o
+X                   0x10              ..\obj\stepmotor.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ..\obj\prtf.o
+ .data          0x00000000        0x0 ..\obj\prtf.o
+ .bss           0x00000000        0x0 ..\obj\prtf.o
+ .text._sprtf   0x00000000       0x8c ..\obj\prtf.o
+ .text._sprtff  0x00000000      0x124 ..\obj\prtf.o
+ .text._sprtff16
+                0x00000000      0x11c ..\obj\prtf.o
+ .text.D_To_H   0x00000000       0x7c ..\obj\prtf.o
+ .text._sprtf16
+                0x00000000       0x48 ..\obj\prtf.o
+ .text.chek_str_dir
+                0x00000000       0xa8 ..\obj\prtf.o
+ .text          0x00000000        0x0 ..\obj\delay.o
+ .data          0x00000000        0x0 ..\obj\delay.o
+ .text.delay    0x00000000       0x20 ..\obj\delay.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x22c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000      0x118 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000      0x110 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000      0x10c ..\obj\stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000       0xa8 ..\obj\stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000       0xb8 ..\obj\stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x50 ..\obj\stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x34 ..\obj\stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x44 ..\obj\stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x30 ..\obj\stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x4c ..\obj\stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x48 ..\obj\stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000       0x28 ..\obj\stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x48 ..\obj\stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x24 ..\obj\stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x2c ..\obj\stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x60 ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x5c ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x54 ..\obj\stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000       0x28 ..\obj\stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x98 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x54 ..\obj\stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x54 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0xac ..\obj\stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x40 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000       0x20 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x3c ..\obj\stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000       0x1c ..\obj\stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000       0x38 ..\obj\stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000       0x20 ..\obj\stm32f10x_tim.o
+ .text.TI1_Config
+                0x00000000       0xe0 ..\obj\stm32f10x_tim.o
+ .text.TI2_Config
+                0x00000000       0xf4 ..\obj\stm32f10x_tim.o
+ .text.TI3_Config
+                0x00000000       0xec ..\obj\stm32f10x_tim.o
+ .text.TI4_Config
+                0x00000000       0xf8 ..\obj\stm32f10x_tim.o
+ .text          0x00000000        0x0 ..\obj\flash.o
+ .data          0x00000000        0x4 ..\obj\flash.o
+ .bss           0x00000000        0xc ..\obj\flash.o
+ .text.FLASH_WriteHalfDate8
+                0x00000000       0x60 ..\obj\flash.o
+ .text.FLASH_ReadHalfData8
+                0x00000000       0x38 ..\obj\flash.o
+ .text.Write__All
+                0x00000000       0xb8 ..\obj\flash.o
+ .text.FLASH_WriteByte
+                0x00000000       0x68 ..\obj\flash.o
+ .text.FLASH_ReadByte
+                0x00000000       0x34 ..\obj\flash.o
+ COMMON         0x00000000        0x0 ..\obj\flash.o
+ .text          0x00000000        0x0 ..\obj\stepmotor.o
+ .data          0x00000000        0x0 ..\obj\stepmotor.o
+ .bss           0x00000000        0x0 ..\obj\stepmotor.o
+ .text          0x00000000        0x0 ..\obj\system_stm32f10x.o
+ .data          0x00000000       0x14 ..\obj\system_stm32f10x.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f10x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xdc ..\obj\system_stm32f10x.o
+ .text          0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .text          0x00000000        0x0 ..\obj\lcd_44780.o
+ .bss           0x00000000        0x0 ..\obj\lcd_44780.o
+ .text.LCD_SETPC
+                0x00000000       0x34 ..\obj\lcd_44780.o
+ .text.LCD_PUTC
+                0x00000000       0x1c ..\obj\lcd_44780.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xe4 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x28 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0x34 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x44 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x4c ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000       0x20 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0xe0 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x84 ..\obj\stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000       0x1c ..\obj\stm32f10x_gpio.o
+ .text          0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000       0x18 ..\obj\stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000       0x24 ..\obj\stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x44 ..\obj\stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000       0x18 ..\obj\stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000       0x20 ..\obj\stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000       0x18 ..\obj\stm32f10x_crc.o
+ .debug_info    0x00000000      0x208 ..\obj\stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 ..\obj\stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 ..\obj\stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 ..\obj\stm32f10x_crc.o
+ .debug_line    0x00000000      0x22a ..\obj\stm32f10x_crc.o
+ .debug_str     0x00000000      0x23c ..\obj\stm32f10x_crc.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_crc.o
+ .debug_frame   0x00000000       0xe8 ..\obj\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_crc.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .data          0x00000000       0x14 ..\obj\stm32f10x_rcc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x5c ..\obj\stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x5c ..\obj\stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x50 ..\obj\stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x4c ..\obj\stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000       0x1c ..\obj\stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x40 ..\obj\stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x24 ..\obj\stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000      0x164 ..\obj\stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x3c ..\obj\stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x74 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x1c ..\obj\stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x38 ..\obj\stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x20 ..\obj\stm32f10x_rcc.o
+ .text          0x00000000        0x0 ..\obj\key.o
+ .data          0x00000000        0x0 ..\obj\key.o
+ .bss           0x00000000        0x0 ..\obj\key.o
+ .text.key      0x00000000       0xec ..\obj\key.o
+ .text.blinc    0x00000000       0x60 ..\obj\key.o
+ .text.ILL_init
+                0x00000000       0x30 ..\obj\key.o
+ .text.ILL_ON   0x00000000       0x14 ..\obj\key.o
+ .text.ILL_OFF  0x00000000       0x14 ..\obj\key.o
+ .text.BipP     0x00000000       0x5c ..\obj\key.o
+ .text.BipExit  0x00000000       0x28 ..\obj\key.o
+ COMMON         0x00000000        0x5 ..\obj\key.o
+ .text          0x00000000        0x0 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .bss           0x00000000        0x4 ..\obj\syscalls.o
+ .text._sbrk    0x00000000       0x40 ..\obj\syscalls.o
+ .text.link     0x00000000       0x1c ..\obj\syscalls.o
+ .text._close   0x00000000       0x18 ..\obj\syscalls.o
+ .text._fstat   0x00000000       0x20 ..\obj\syscalls.o
+ .text._isatty  0x00000000       0x18 ..\obj\syscalls.o
+ .text._lseek   0x00000000       0x1c ..\obj\syscalls.o
+ .text._read    0x00000000       0x1c ..\obj\syscalls.o
+ .text._write   0x00000000       0x1c ..\obj\syscalls.o
+ .text.abort    0x00000000        0x8 ..\obj\syscalls.o
+ .debug_info    0x00000000      0x478 ..\obj\syscalls.o
+ .debug_abbrev  0x00000000      0x10f ..\obj\syscalls.o
+ .debug_aranges
+                0x00000000       0x60 ..\obj\syscalls.o
+ .debug_ranges  0x00000000       0x50 ..\obj\syscalls.o
+ .debug_line    0x00000000      0x195 ..\obj\syscalls.o
+ .debug_str     0x00000000      0x2f8 ..\obj\syscalls.o
+ .comment       0x00000000       0x71 ..\obj\syscalls.o
+ .debug_frame   0x00000000      0x168 ..\obj\syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\syscalls.o
+ COMMON         0x00000000       0x18 ..\obj\syscalls.o
+ .text          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x38 ..\obj\stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x30 ..\obj\stm32f10x_flash.o
+ .text.FLASH_UnlockBank1
+                0x00000000       0x24 ..\obj\stm32f10x_flash.o
+ .text.FLASH_LockBank1
+                0x00000000       0x1c ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x5c ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseAllBank1Pages
+                0x00000000       0x5c ..\obj\stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0xd4 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ProgramWord
+                0x00000000       0x94 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x78 ..\obj\stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000      0x118 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0xd4 ..\obj\stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x94 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000       0x18 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000       0x18 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x34 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x34 ..\obj\stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x3c ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x54 ..\obj\stm32f10x_flash.o
+ .text.FLASH_GetStatus
+                0x00000000       0x58 ..\obj\stm32f10x_flash.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x00000000       0x44 ..\obj\stm32f10x_flash.o
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .text          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00010000         xr
+ram              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20005000                _eram = 0x20005000
+
+.text           0x08000000     0x512c
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ..\obj\startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text._sprtffd
+                0x0800010c      0x11c ..\obj\prtf.o
+                0x0800010c                _sprtffd
+ .text.chek_str
+                0x08000228       0x48 ..\obj\prtf.o
+                0x08000228                chek_str
+ .text.delay_init
+                0x08000270       0x50 ..\obj\delay.o
+                0x08000270                delay_init
+ .text.delay_ms
+                0x080002c0       0x2c ..\obj\delay.o
+                0x080002c0                delay_ms
+ .text.delay_us
+                0x080002ec       0x2c ..\obj\delay.o
+                0x080002ec                delay_us
+ .text.delay_s  0x08000318       0x24 ..\obj\delay.o
+                0x08000318                delay_s
+ .text.load_cek
+                0x0800033c       0x48 ..\obj\delay.o
+                0x0800033c                load_cek
+ .text.TIM_TimeBaseInit
+                0x08000384       0xf8 ..\obj\stm32f10x_tim.o
+                0x08000384                TIM_TimeBaseInit
+ .text.TIM_OC4Init
+                0x0800047c       0xd0 ..\obj\stm32f10x_tim.o
+                0x0800047c                TIM_OC4Init
+ .text.TIM_Cmd  0x0800054c       0x40 ..\obj\stm32f10x_tim.o
+                0x0800054c                TIM_Cmd
+ .text.TIM_OC4PreloadConfig
+                0x0800058c       0x3c ..\obj\stm32f10x_tim.o
+                0x0800058c                TIM_OC4PreloadConfig
+ .text.TIM_GetITStatus
+                0x080005c8       0x54 ..\obj\stm32f10x_tim.o
+                0x080005c8                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x0800061c       0x20 ..\obj\stm32f10x_tim.o
+                0x0800061c                TIM_ClearITPendingBit
+ .text.FLASH_WriteHalfDate
+                0x0800063c       0x60 ..\obj\flash.o
+                0x0800063c                FLASH_WriteHalfDate
+ .text.FLASH_ReadHalfData
+                0x0800069c       0x38 ..\obj\flash.o
+                0x0800069c                FLASH_ReadHalfData
+ .text.NVIC_EnableIRQ
+                0x080006d4       0x30 ..\obj\stepmotor.o
+ .text.INI_STEP_MOTO
+                0x08000704       0x38 ..\obj\stepmotor.o
+                0x08000704                INI_STEP_MOTO
+ .text.INI_MOTO_GPIO
+                0x0800073c       0x50 ..\obj\stepmotor.o
+                0x0800073c                INI_MOTO_GPIO
+ .text.INI_MOTO_TIM
+                0x0800078c       0x9c ..\obj\stepmotor.o
+                0x0800078c                INI_MOTO_TIM
+ .text.StartMotor
+                0x08000828       0x3c ..\obj\stepmotor.o
+                0x08000828                StartMotor
+ .text.StoptMotor
+                0x08000864       0x2c ..\obj\stepmotor.o
+                0x08000864                StoptMotor
+ .text.SystemInit
+                0x08000890       0x68 ..\obj\system_stm32f10x.o
+                0x08000890                SystemInit
+ .text.SetSysClock
+                0x080008f8        0xc ..\obj\system_stm32f10x.o
+ .text.SetSysClockTo72
+                0x08000904      0x100 ..\obj\system_stm32f10x.o
+ .text.Default_Reset_Handler
+                0x08000a04       0x5c ..\obj\startup_stm32f10x_md.o
+                0x08000a04                Default_Reset_Handler
+                0x08000a04                Reset_Handler
+ .text.Default_Handler
+                0x08000a60        0x8 ..\obj\startup_stm32f10x_md.o
+                0x08000a60                EXTI2_IRQHandler
+                0x08000a60                DebugMon_Handler
+                0x08000a60                TIM1_CC_IRQHandler
+                0x08000a60                HardFault_Handler
+                0x08000a60                SysTick_Handler
+                0x08000a60                PVD_IRQHandler
+                0x08000a60                PendSV_Handler
+                0x08000a60                NMI_Handler
+                0x08000a60                EXTI3_IRQHandler
+                0x08000a60                EXTI0_IRQHandler
+                0x08000a60                I2C2_EV_IRQHandler
+                0x08000a60                UsageFault_Handler
+                0x08000a60                ADC1_2_IRQHandler
+                0x08000a60                SPI1_IRQHandler
+                0x08000a60                TAMPER_IRQHandler
+                0x08000a60                DMA1_Channel4_IRQHandler
+                0x08000a60                USART3_IRQHandler
+                0x08000a60                RTC_IRQHandler
+                0x08000a60                DMA1_Channel7_IRQHandler
+                0x08000a60                CAN1_RX1_IRQHandler
+                0x08000a60                I2C1_EV_IRQHandler
+                0x08000a60                DMA1_Channel6_IRQHandler
+                0x08000a60                TIM3_IRQHandler
+                0x08000a60                RCC_IRQHandler
+                0x08000a60                TIM1_TRG_COM_IRQHandler
+                0x08000a60                DMA1_Channel1_IRQHandler
+                0x08000a60                EXTI15_10_IRQHandler
+                0x08000a60                EXTI9_5_IRQHandler
+                0x08000a60                SPI2_IRQHandler
+                0x08000a60                MemManage_Handler
+                0x08000a60                SVC_Handler
+                0x08000a60                DMA1_Channel5_IRQHandler
+                0x08000a60                EXTI4_IRQHandler
+                0x08000a60                USB_LP_CAN1_RX0_IRQHandler
+                0x08000a60                USB_HP_CAN1_TX_IRQHandler
+                0x08000a60                DMA1_Channel3_IRQHandler
+                0x08000a60                TIM1_UP_IRQHandler
+                0x08000a60                WWDG_IRQHandler
+                0x08000a60                TIM2_IRQHandler
+                0x08000a60                TIM1_BRK_IRQHandler
+                0x08000a60                EXTI1_IRQHandler
+                0x08000a60                RTCAlarm_IRQHandler
+                0x08000a60                USART2_IRQHandler
+                0x08000a60                I2C2_ER_IRQHandler
+                0x08000a60                DMA1_Channel2_IRQHandler
+                0x08000a60                CAN1_SCE_IRQHandler
+                0x08000a60                FLASH_IRQHandler
+                0x08000a60                BusFault_Handler
+                0x08000a60                USART1_IRQHandler
+                0x08000a60                I2C1_ER_IRQHandler
+                0x08000a60                USBWakeUp_IRQHandler
+ .text.PORT_LCD_INI
+                0x08000a68       0x50 ..\obj\lcd_44780.o
+                0x08000a68                PORT_LCD_INI
+ .text.LCD_WRITE_4BIT
+                0x08000ab8      0x11c ..\obj\lcd_44780.o
+                0x08000ab8                LCD_WRITE_4BIT
+ .text.PORT_INI_F_LCD_IN
+                0x08000bd4       0x28 ..\obj\lcd_44780.o
+                0x08000bd4                PORT_INI_F_LCD_IN
+ .text.PORT_INI_F_LCD_OUT
+                0x08000bfc       0x28 ..\obj\lcd_44780.o
+                0x08000bfc                PORT_INI_F_LCD_OUT
+ .text.LCD_F_BUSY
+                0x08000c24       0x6c ..\obj\lcd_44780.o
+                0x08000c24                LCD_F_BUSY
+ .text.LCD_INI  0x08000c90       0xf4 ..\obj\lcd_44780.o
+                0x08000c90                LCD_INI
+ .text.LCD_GOTO
+                0x08000d84       0x5c ..\obj\lcd_44780.o
+                0x08000d84                LCD_GOTO
+ .text.LCD_PUTS
+                0x08000de0       0x50 ..\obj\lcd_44780.o
+                0x08000de0                LCD_PUTS
+ .text.LCD_PUTST
+                0x08000e30       0x78 ..\obj\lcd_44780.o
+                0x08000e30                LCD_PUTST
+ .text.GPIO_Init
+                0x08000ea8      0x180 ..\obj\stm32f10x_gpio.o
+                0x08000ea8                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08001028       0x34 ..\obj\stm32f10x_gpio.o
+                0x08001028                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x0800105c       0x1c ..\obj\stm32f10x_gpio.o
+                0x0800105c                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x08001078       0x1c ..\obj\stm32f10x_gpio.o
+                0x08001078                GPIO_ResetBits
+ .text.GPIO_WriteBit
+                0x08001094       0x30 ..\obj\stm32f10x_gpio.o
+                0x08001094                GPIO_WriteBit
+ .text.main     0x080010c4     0x11d8 ..\obj\main.o
+                0x080010c4                main
+ .text.TIM4_IRQHandler
+                0x0800229c      0x28c ..\obj\main.o
+                0x0800229c                TIM4_IRQHandler
+ .text.list_0   0x08002528      0x1a4 ..\obj\main.o
+                0x08002528                list_0
+ .text.LineToL  0x080026cc       0xf8 ..\obj\main.o
+                0x080026cc                LineToL
+ .text.Okrug    0x080027c4       0x5c ..\obj\main.o
+                0x080027c4                Okrug
+ .text.LoadSetings
+                0x08002820       0x8c ..\obj\main.o
+                0x08002820                LoadSetings
+ .text.RCC_APB2PeriphClockCmd
+                0x080028ac       0x3c ..\obj\stm32f10x_rcc.o
+                0x080028ac                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x080028e8       0x3c ..\obj\stm32f10x_rcc.o
+                0x080028e8                RCC_APB1PeriphClockCmd
+ .text.key_ini  0x08002924       0x24 ..\obj\key.o
+                0x08002924                key_ini
+ .text.key_init
+                0x08002948       0x30 ..\obj\key.o
+                0x08002948                key_init
+ .text.init_in_out
+                0x08002978       0x30 ..\obj\key.o
+                0x08002978                init_in_out
+ .text.key_sk   0x080029a8       0x8c ..\obj\key.o
+                0x080029a8                key_sk
+ .text.key_st   0x08002a34       0xfc ..\obj\key.o
+                0x08002a34                key_st
+ .text.blinc_init
+                0x08002b30       0x3c ..\obj\key.o
+                0x08002b30                blinc_init
+ .text.BIP_init
+                0x08002b6c       0x30 ..\obj\key.o
+                0x08002b6c                BIP_init
+ .text.BIP      0x08002b9c       0x50 ..\obj\key.o
+                0x08002b9c                BIP
+ .text.BipStop  0x08002bec       0x30 ..\obj\key.o
+                0x08002bec                BipStop
+ .text.FLASH_Unlock
+                0x08002c1c       0x24 ..\obj\stm32f10x_flash.o
+                0x08002c1c                FLASH_Unlock
+ .text.FLASH_Lock
+                0x08002c40       0x1c ..\obj\stm32f10x_flash.o
+                0x08002c40                FLASH_Lock
+ .text.FLASH_ErasePage
+                0x08002c5c       0x64 ..\obj\stm32f10x_flash.o
+                0x08002c5c                FLASH_ErasePage
+ .text.FLASH_ProgramHalfWord
+                0x08002cc0       0x5c ..\obj\stm32f10x_flash.o
+                0x08002cc0                FLASH_ProgramHalfWord
+ .text.FLASH_ClearFlag
+                0x08002d1c       0x1c ..\obj\stm32f10x_flash.o
+                0x08002d1c                FLASH_ClearFlag
+ .text.FLASH_GetBank1Status
+                0x08002d38       0x58 ..\obj\stm32f10x_flash.o
+                0x08002d38                FLASH_GetBank1Status
+ .text.FLASH_WaitForLastOperation
+                0x08002d90       0x44 ..\obj\stm32f10x_flash.o
+                0x08002d90                FLASH_WaitForLastOperation
+ .text.pow      0x08002dd4      0x2f0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+                0x08002dd4                pow
+ *fill*         0x080030c4        0x4 
+ .text.__ieee754_pow
+                0x080030c8      0xaa0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+                0x080030c8                __ieee754_pow
+ .text.__ieee754_sqrt
+                0x08003b68      0x18c d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+                0x08003b68                __ieee754_sqrt
+ .text.fabs     0x08003cf4        0x8 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+                0x08003cf4                fabs
+ .text.finite   0x08003cfc        0xc d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+                0x08003cfc                finite
+ .text.__fpclassifyd
+                0x08003d08       0x58 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+                0x08003d08                __fpclassifyd
+ .text.matherr  0x08003d60        0x4 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                0x08003d60                matherr
+ .text.nan      0x08003d64        0xc d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+                0x08003d64                nan
+ .text.rint     0x08003d70      0x11c d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+                0x08003d70                rint
+ *fill*         0x08003e8c        0x4 
+ .text.scalbn   0x08003e90       0xf0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+                0x08003e90                scalbn
+ .text.copysign
+                0x08003f80       0x10 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+                0x08003f80                copysign
+ .text          0x08003f90      0x370 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                0x08003f90                __aeabi_drsub
+                0x08003f98                __aeabi_dsub
+                0x08003f98                __subdf3
+                0x08003f9c                __aeabi_dadd
+                0x08003f9c                __adddf3
+                0x08004214                __floatunsidf
+                0x08004214                __aeabi_ui2d
+                0x08004234                __floatsidf
+                0x08004234                __aeabi_i2d
+                0x08004258                __aeabi_f2d
+                0x08004258                __extendsfdf2
+                0x08004294                __floatundidf
+                0x08004294                __aeabi_ul2d
+                0x080042a4                __floatdidf
+                0x080042a4                __aeabi_l2d
+ .text          0x08004300      0x424 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                0x08004300                __aeabi_dmul
+                0x08004300                __muldf3
+                0x08004554                __divdf3
+                0x08004554                __aeabi_ddiv
+ .text          0x08004724      0x110 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                0x08004724                __gtdf2
+                0x08004724                __gedf2
+                0x0800472c                __ltdf2
+                0x0800472c                __ledf2
+                0x08004734                __nedf2
+                0x08004734                __eqdf2
+                0x08004734                __cmpdf2
+                0x080047b0                __aeabi_cdrcmple
+                0x080047c0                __aeabi_cdcmpeq
+                0x080047c0                __aeabi_cdcmple
+                0x080047d0                __aeabi_dcmpeq
+                0x080047e4                __aeabi_dcmplt
+                0x080047f8                __aeabi_dcmple
+                0x0800480c                __aeabi_dcmpge
+                0x08004820                __aeabi_dcmpgt
+ .text          0x08004834       0x50 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                0x08004834                __aeabi_d2iz
+                0x08004834                __fixdfsi
+ .text          0x08004884       0x40 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x08004884                __aeabi_d2uiz
+                0x08004884                __fixunsdfsi
+ .text          0x080048c4       0xa0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+                0x080048c4                __truncdfsf2
+                0x080048c4                __aeabi_d2f
+ .text          0x08004964      0x21c d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                0x08004964                __aeabi_frsub
+                0x0800496c                __subsf3
+                0x0800496c                __aeabi_fsub
+                0x08004970                __aeabi_fadd
+                0x08004970                __addsf3
+                0x08004ad0                __aeabi_ui2f
+                0x08004ad0                __floatunsisf
+                0x08004ad8                __aeabi_i2f
+                0x08004ad8                __floatsisf
+                0x08004af4                __aeabi_ul2f
+                0x08004af4                __floatundisf
+                0x08004b04                __aeabi_l2f
+                0x08004b04                __floatdisf
+ .text          0x08004b80      0x2a0 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                0x08004b80                __mulsf3
+                0x08004b80                __aeabi_fmul
+                0x08004ce8                __aeabi_fdiv
+                0x08004ce8                __divsf3
+ .text          0x08004e20       0xec d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                0x08004e20                __gesf2
+                0x08004e20                __gtsf2
+                0x08004e28                __lesf2
+                0x08004e28                __ltsf2
+                0x08004e30                __nesf2
+                0x08004e30                __eqsf2
+                0x08004e30                __cmpsf2
+                0x08004e90                __aeabi_cfrcmple
+                0x08004e98                __aeabi_cfcmpeq
+                0x08004e98                __aeabi_cfcmple
+                0x08004ea8                __aeabi_fcmpeq
+                0x08004ebc                __aeabi_fcmplt
+                0x08004ed0                __aeabi_fcmple
+                0x08004ee4                __aeabi_fcmpge
+                0x08004ef8                __aeabi_fcmpgt
+ .text          0x08004f0c       0x4c d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixsfsi.o)
+                0x08004f0c                __aeabi_f2iz
+                0x08004f0c                __fixsfsi
+ .text          0x08004f58       0x40 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                0x08004f58                __fixunssfsi
+                0x08004f58                __aeabi_f2uiz
+ .text.__errno  0x08004f98        0xc d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+                0x08004f98                __errno
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x08004fa4      0x138 ..\obj\main.o
+ .rodata.str1.4
+                0x080050dc        0x4 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .rodata.dp_h   0x080050e0       0x10 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .rodata.dp_l   0x080050f0       0x10 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .rodata.bp     0x08005100       0x10 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .rodata.str1.4
+                0x08005110        0x1 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x08005111        0x7 
+ .rodata.TWO52  0x08005118       0x10 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .rodata.str1.4
+                0x08005128        0x4 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ *(.eh_fram e*)
+
+.glue_7         0x0800512c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0800512c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0800512c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800512c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800512c        0x0
+ .iplt          0x00000000        0x0 ..\obj\prtf.o
+
+.rel.dyn        0x0800512c        0x0
+ .rel.iplt      0x00000000        0x0 ..\obj\prtf.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0800512c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0800512c                __exidx_end = .
+                0x0800512c                __etext = .
+                0x0800512c                _sidata = __etext
+
+.data           0x20000000      0x464 load address 0x0800512c
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x20 ..\obj\lcd_44780.o
+                0x20000000                ANSI1251_RU
+ .data          0x20000020       0x14 ..\obj\main.o
+                0x20000020                simv
+                0x20000028                moln
+                0x20000030                FLASHStatus
+ .data.__fdlib_version
+                0x20000034        0x1 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000034                __fdlib_version
+ *fill*         0x20000035        0x3 
+ .data.impure_data
+                0x20000038      0x428 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000460        0x4 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+                0x20000460                _impure_ptr
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000464                PROVIDE (__preinit_array_end, .)
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x20000464                PROVIDE (__init_array_end, .)
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+                0x20000464                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                __data_end__ = .
+                0x20000464                _edata = __data_end__
+
+.igot.plt       0x20000464        0x0 load address 0x08005590
+ .igot.plt      0x00000000        0x0 ..\obj\prtf.o
+
+.bss            0x20000464       0x5c load address 0x08005590
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                __bss_start__ = .
+                0x20000464                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x20000464        0x4 ..\obj\delay.o
+ .bss           0x20000468       0x20 ..\obj\main.o
+                0x20000468                L
+                0x2000046c                La
+                0x20000470                Lt
+                0x20000474                DRIV
+                0x20000475                PUSK
+                0x20000476                list
+                0x20000478                DLN
+                0x2000047c                GRD
+                0x20000480                PUT
+                0x20000484                W
+ *(COMMON)
+ COMMON         0x20000488       0x20 ..\obj\stepmotor.o
+                0x20000488                STEP
+                0x2000048a                EN
+                0x2000048b                S
+                0x2000048c                DR
+                0x2000048e                PER
+                0x20000490                Line
+                0x20000494                adr
+                0x20000498                X
+ COMMON         0x200004a8       0x18 ..\obj\main.o
+                0x200004a8                d
+                0x200004ac                buf
+                0x200004b6                keys
+                0x200004b7                m
+                0x200004b8                OB_P
+                0x200004bc                AX
+                0x200004be                PER_MIN
+                0x200004c0                . = ALIGN (0x4)
+                0x200004c0                __bss_end__ = .
+                0x200004c0                _ebss = __bss_end__
+
+.heap           0x200004c0        0x0
+                0x200004c0                __end__ = .
+                0x200004c0                _end = __end__
+                0x200004c0                end = __end__
+ *(.heap*)
+                0x200004c0                __HeapLimit = .
+
+.co_stack       0x200004c0      0x400 load address 0x080055ec
+                0x200004c0                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+ .co_stack      0x200004c0      0x400 ..\obj\startup_stm32f10x_md.o
+                0x200004c0                pulStack
+                0x20005000                __StackTop = (ORIGIN (ram) + 0x5000)
+                0x20004c00                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                0x20005000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\prtf.o
+LOAD ..\obj\delay.o
+LOAD ..\obj\stm32f10x_tim.o
+LOAD ..\obj\flash.o
+LOAD ..\obj\stepmotor.o
+LOAD ..\obj\system_stm32f10x.o
+LOAD ..\obj\startup_stm32f10x_md.o
+LOAD ..\obj\lcd_44780.o
+LOAD ..\obj\stm32f10x_gpio.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32f10x_crc.o
+LOAD ..\obj\stm32f10x_rcc.o
+LOAD ..\obj\key.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\stm32f10x_flash.o
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+START GROUP
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libg.a
+LOAD d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a
+END GROUP
+OUTPUT(stm32f8c6_hd44780.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x5df9
+ .debug_info    0x00000000      0x374 ..\obj\prtf.o
+ .debug_info    0x00000374      0x255 ..\obj\delay.o
+ .debug_info    0x000005c9     0x1c58 ..\obj\stm32f10x_tim.o
+ .debug_info    0x00002221      0x306 ..\obj\flash.o
+ .debug_info    0x00002527      0x93a ..\obj\stepmotor.o
+ .debug_info    0x00002e61      0x479 ..\obj\system_stm32f10x.o
+ .debug_info    0x000032da       0xe9 ..\obj\startup_stm32f10x_md.o
+ .debug_info    0x000033c3      0x505 ..\obj\lcd_44780.o
+ .debug_info    0x000038c8      0x6e7 ..\obj\stm32f10x_gpio.o
+ .debug_info    0x00003faf      0x94c ..\obj\main.o
+ .debug_info    0x000048fb      0x88d ..\obj\stm32f10x_rcc.o
+ .debug_info    0x00005188      0x4c0 ..\obj\key.o
+ .debug_info    0x00005648      0x7b1 ..\obj\stm32f10x_flash.o
+
+.debug_abbrev   0x00000000     0x12c1
+ .debug_abbrev  0x00000000       0xec ..\obj\prtf.o
+ .debug_abbrev  0x000000ec      0x112 ..\obj\delay.o
+ .debug_abbrev  0x000001fe      0x1b0 ..\obj\stm32f10x_tim.o
+ .debug_abbrev  0x000003ae      0x101 ..\obj\flash.o
+ .debug_abbrev  0x000004af      0x1c8 ..\obj\stepmotor.o
+ .debug_abbrev  0x00000677      0x14c ..\obj\system_stm32f10x.o
+ .debug_abbrev  0x000007c3       0xa7 ..\obj\startup_stm32f10x_md.o
+ .debug_abbrev  0x0000086a      0x192 ..\obj\lcd_44780.o
+ .debug_abbrev  0x000009fc      0x1c8 ..\obj\stm32f10x_gpio.o
+ .debug_abbrev  0x00000bc4      0x1f3 ..\obj\main.o
+ .debug_abbrev  0x00000db7      0x1ba ..\obj\stm32f10x_rcc.o
+ .debug_abbrev  0x00000f71      0x1c5 ..\obj\key.o
+ .debug_abbrev  0x00001136      0x18b ..\obj\stm32f10x_flash.o
+
+.debug_aranges  0x00000000      0x890
+ .debug_aranges
+                0x00000000       0x58 ..\obj\prtf.o
+ .debug_aranges
+                0x00000058       0x48 ..\obj\delay.o
+ .debug_aranges
+                0x000000a0      0x2f0 ..\obj\stm32f10x_tim.o
+ .debug_aranges
+                0x00000390       0x50 ..\obj\flash.o
+ .debug_aranges
+                0x000003e0       0x48 ..\obj\stepmotor.o
+ .debug_aranges
+                0x00000428       0x38 ..\obj\system_stm32f10x.o
+ .debug_aranges
+                0x00000460       0x28 ..\obj\startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000488       0x70 ..\obj\lcd_44780.o
+ .debug_aranges
+                0x000004f8       0xa8 ..\obj\stm32f10x_gpio.o
+ .debug_aranges
+                0x000005a0       0x48 ..\obj\main.o
+ .debug_aranges
+                0x000005e8      0x118 ..\obj\stm32f10x_rcc.o
+ .debug_aranges
+                0x00000700       0x98 ..\obj\key.o
+ .debug_aranges
+                0x00000798       0xf8 ..\obj\stm32f10x_flash.o
+
+.debug_ranges   0x00000000      0x7c0
+ .debug_ranges  0x00000000       0x48 ..\obj\prtf.o
+ .debug_ranges  0x00000048       0x38 ..\obj\delay.o
+ .debug_ranges  0x00000080      0x2e0 ..\obj\stm32f10x_tim.o
+ .debug_ranges  0x00000360       0x40 ..\obj\flash.o
+ .debug_ranges  0x000003a0       0x38 ..\obj\stepmotor.o
+ .debug_ranges  0x000003d8       0x28 ..\obj\system_stm32f10x.o
+ .debug_ranges  0x00000400       0x18 ..\obj\startup_stm32f10x_md.o
+ .debug_ranges  0x00000418       0x60 ..\obj\lcd_44780.o
+ .debug_ranges  0x00000478       0x98 ..\obj\stm32f10x_gpio.o
+ .debug_ranges  0x00000510       0x38 ..\obj\main.o
+ .debug_ranges  0x00000548      0x108 ..\obj\stm32f10x_rcc.o
+ .debug_ranges  0x00000650       0x88 ..\obj\key.o
+ .debug_ranges  0x000006d8       0xe8 ..\obj\stm32f10x_flash.o
+
+.debug_line     0x00000000     0x32da
+ .debug_line    0x00000000      0x30c ..\obj\prtf.o
+ .debug_line    0x0000030c      0x211 ..\obj\delay.o
+ .debug_line    0x0000051d      0xadb ..\obj\stm32f10x_tim.o
+ .debug_line    0x00000ff8      0x280 ..\obj\flash.o
+ .debug_line    0x00001278      0x2aa ..\obj\stepmotor.o
+ .debug_line    0x00001522      0x229 ..\obj\system_stm32f10x.o
+ .debug_line    0x0000174b       0x9b ..\obj\startup_stm32f10x_md.o
+ .debug_line    0x000017e6      0x332 ..\obj\lcd_44780.o
+ .debug_line    0x00001b18      0x3b3 ..\obj\stm32f10x_gpio.o
+ .debug_line    0x00001ecb      0x662 ..\obj\main.o
+ .debug_line    0x0000252d      0x4c0 ..\obj\stm32f10x_rcc.o
+ .debug_line    0x000029ed      0x41f ..\obj\key.o
+ .debug_line    0x00002e0c      0x4ce ..\obj\stm32f10x_flash.o
+
+.debug_str      0x00000000     0x220b
+ .debug_str     0x00000000      0x174 ..\obj\prtf.o
+                                0x1cf (size before relaxing)
+ .debug_str     0x00000174       0x85 ..\obj\delay.o
+                                0x1ee (size before relaxing)
+ .debug_str     0x000001f9      0xc0f ..\obj\stm32f10x_tim.o
+                                0xdde (size before relaxing)
+ .debug_str     0x00000e08      0x114 ..\obj\flash.o
+                                0x28c (size before relaxing)
+ .debug_str     0x00000f1c      0x4ba ..\obj\stepmotor.o
+                                0x844 (size before relaxing)
+ .debug_str     0x000013d6      0x16b ..\obj\system_stm32f10x.o
+                                0x2f0 (size before relaxing)
+ .debug_str     0x00001541       0xa9 ..\obj\startup_stm32f10x_md.o
+                                0x140 (size before relaxing)
+ .debug_str     0x000015ea       0xeb ..\obj\lcd_44780.o
+                                0x3d0 (size before relaxing)
+ .debug_str     0x000016d5      0x236 ..\obj\stm32f10x_gpio.o
+                                0x51a (size before relaxing)
+ .debug_str     0x0000190b       0xce ..\obj\main.o
+                                0x400 (size before relaxing)
+ .debug_str     0x000019d9      0x3e1 ..\obj\stm32f10x_rcc.o
+                                0x61b (size before relaxing)
+ .debug_str     0x00001dba       0xa5 ..\obj\key.o
+                                0x383 (size before relaxing)
+ .debug_str     0x00001e5f      0x3ac ..\obj\stm32f10x_flash.o
+                                0x5e9 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ..\obj\prtf.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ..\obj\delay.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_tim.o
+ .comment       0x00000000       0x71 ..\obj\flash.o
+ .comment       0x00000000       0x71 ..\obj\stepmotor.o
+ .comment       0x00000000       0x71 ..\obj\system_stm32f10x.o
+ .comment       0x00000000       0x71 ..\obj\startup_stm32f10x_md.o
+ .comment       0x00000000       0x71 ..\obj\lcd_44780.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_gpio.o
+ .comment       0x00000000       0x71 ..\obj\main.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_rcc.o
+ .comment       0x00000000       0x71 ..\obj\key.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_flash.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\prtf.o
+ .ARM.attributes
+                0x00000033       0x33 ..\obj\delay.o
+ .ARM.attributes
+                0x00000066       0x33 ..\obj\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000099       0x33 ..\obj\flash.o
+ .ARM.attributes
+                0x000000cc       0x33 ..\obj\stepmotor.o
+ .ARM.attributes
+                0x000000ff       0x33 ..\obj\system_stm32f10x.o
+ .ARM.attributes
+                0x00000132       0x33 ..\obj\startup_stm32f10x_md.o
+ .ARM.attributes
+                0x00000165       0x33 ..\obj\lcd_44780.o
+ .ARM.attributes
+                0x00000198       0x33 ..\obj\stm32f10x_gpio.o
+ .ARM.attributes
+                0x000001cb       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x000001fe       0x33 ..\obj\stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000231       0x33 ..\obj\key.o
+ .ARM.attributes
+                0x00000264       0x33 ..\obj\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000297       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .ARM.attributes
+                0x000002c4       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .ARM.attributes
+                0x000002f1       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000031e       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000034b       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+ .ARM.attributes
+                0x00000378       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x000003a5       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000003d2       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000003ff       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .ARM.attributes
+                0x0000042c       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .ARM.attributes
+                0x00000459       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000486       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x000004b3       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000004d0       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x000004ed       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000050a       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000527       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x00000544       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000561       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000057e       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000059b       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x000005b8       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000005d5       0x1d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x000005f2       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000061f       0x2d d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-impure.o)
+
+.debug_frame    0x00000000     0x25cc
+ .debug_frame   0x00000000      0x144 ..\obj\prtf.o
+ .debug_frame   0x00000144       0xf4 ..\obj\delay.o
+ .debug_frame   0x00000238      0xe2c ..\obj\stm32f10x_tim.o
+ .debug_frame   0x00001064      0x110 ..\obj\flash.o
+ .debug_frame   0x00001174       0xd4 ..\obj\stepmotor.o
+ .debug_frame   0x00001248       0x98 ..\obj\system_stm32f10x.o
+ .debug_frame   0x000012e0       0x4c ..\obj\startup_stm32f10x_md.o
+ .debug_frame   0x0000132c      0x194 ..\obj\lcd_44780.o
+ .debug_frame   0x000014c0      0x2d0 ..\obj\stm32f10x_gpio.o
+ .debug_frame   0x00001790       0xe0 ..\obj\main.o
+ .debug_frame   0x00001870      0x4f4 ..\obj\stm32f10x_rcc.o
+ .debug_frame   0x00001d64      0x220 ..\obj\key.o
+ .debug_frame   0x00001f84      0x410 ..\obj\stm32f10x_flash.o
+ .debug_frame   0x00002394       0x44 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_pow.o)
+ .debug_frame   0x000023d8       0x64 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_pow.o)
+ .debug_frame   0x0000243c       0x30 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x0000246c       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x0000248c       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_finite.o)
+ .debug_frame   0x000024ac       0x34 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x000024e0       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00002500       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_nan.o)
+ .debug_frame   0x00002520       0x3c d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_rint.o)
+ .debug_frame   0x0000255c       0x30 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x0000258c       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x000025ac       0x20 d:/программаторы/stm32/coide/gcc-arm-none-eabi-4_9-2015q1-20150306-win32/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-errno.o)

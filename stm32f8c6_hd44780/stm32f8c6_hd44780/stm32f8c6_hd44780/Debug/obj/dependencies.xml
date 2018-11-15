@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\CHIP\COX\stm32f8c6_hd44780\cmsis /ID:\CHIP\COX\stm32f8c6_hd44780 /ID:\CHIP\COX\stm32f8c6_hd44780\cmsis_boot /ID:\CHIP\COX\stm32f8c6_hd44780\stm_lib\inc /ID:\ /ID:\CHIP\COX /ID:\CHIP /ID:\CHIP\baza /ID:\CHIP\COX\stm32f8c6_hd44780\stm_lib">
+      <source file="..\..\..\cmsis_boot\stm32f10x.h" lastModified="166a8530cb8">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f10x.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\prtf.h" lastModified="1619c3c5c1d">
+      </source>
+      <source file="..\..\..\..\..\baza\key.h" lastModified="1670bba6d34">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_flash.h" lastModified="166a85310a0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="166a85310a0">
+      </source>
+      <source file="..\..\..\..\..\baza\flash.h" lastModified="1618cd154aa">
+      </source>
+      <source file="..\..\..\..\..\baza\prtf.c" lastModified="1619c8f58a3">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\..\..\baza\prtf.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\key.c" lastModified="1670bc3212a">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+         <include file="..\..\..\..\..\baza\delay.h"/>
+         <include file="..\..\..\..\..\baza\d_7_led.h"/>
+         <include file="..\..\..\main.h"/>
+         <include file="..\..\..\..\..\baza\key.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_tim.h" lastModified="166a85310a0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\flash.c" lastModified="1668079bd1a">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_flash.h"/>
+         <include file="..\..\..\..\..\baza\flash.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="166a85308d0">
+      </source>
+      <source file="..\..\..\..\..\baza\stepmotor.h" lastModified="1670f7ec907">
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_tim.c" lastModified="166a8531870">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_tim.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_flash.c" lastModified="166a85310a0">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_flash.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\stepmotor.c" lastModified="1670f7d6ff1">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_tim.h"/>
+         <include file="..\..\..\main.h"/>
+         <include file="..\..\..\..\..\baza\delay.h"/>
+         <include file="..\..\..\..\..\baza\stepmotor.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\delay.h" lastModified="165f4ff7918">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\lcd_44780.h" lastModified="16705e02fce">
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="166a85310a0">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\delay.c" lastModified="165f50007f1">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\..\..\baza\delay.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\lcd_44780.c" lastModified="16705e0346c">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+         <include file="..\..\..\..\..\baza\delay.h"/>
+         <include file="..\..\..\..\..\baza\lcd_44780.h"/>
+         <include file="..\..\..\main.h"/>
+         <include file="..\..\..\..\..\baza\Simv_hd44780.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_crc.h" lastModified="166a85310a0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_gpio.h" lastModified="166a85310a0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\inc\stm32f10x_rcc.h" lastModified="166a85310a0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="166a8530cb8">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\Simv_hd44780.h" lastModified="166097eb7d6">
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="166a8532810">
+      </source>
+      <source file="..\..\..\main.h" lastModified="167112306c2">
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_crc.c" lastModified="166a85310a0">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_crc.h"/>
+      </source>
+      <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="166a85310a0">
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="166a85310a0">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="166a85310a0">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="166a85308d0">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\..\..\baza\d_7_led.h" lastModified="1604939ce5d">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_gpio.h"/>
+         <include file="..\..\..\stm_lib\inc\stm32f10x_rcc.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md.c" lastModified="166a85308d0">
+      </source>
+   </includePath>
+</dependencies>
