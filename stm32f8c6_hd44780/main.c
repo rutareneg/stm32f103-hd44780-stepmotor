@@ -187,7 +187,8 @@ int main(void)
 						if(keys == K_UP){keys=0; GRD += pow(10, m);if(GRD>36000){GRD=0;}} //10 в квадрате и тд
 						if(keys == K_DN){keys=0; GRD -= pow(10, m);if(GRD<0){GRD=0;}}
 
-						 _sprtffd(0,buf,pow(10, m)); //рисуем сколько прошол в делениях
+						 _sprtffd(1,buf,pow(10, m)); //рисуем сколько прошол в делениях
+						 chek_str(buf,5);
 						 LCD_GOTO(2,1);LCD_PUTST(buf,5);
 
 						 _sprtffd(1,buf,GRD); //рисуем сколько прошол в делениях

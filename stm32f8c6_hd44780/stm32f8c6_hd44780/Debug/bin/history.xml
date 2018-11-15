@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <history>
    <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=stm32f8c6_hd44780.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\stm32f8c6_hd44780 -TC:\CooCox\CoIDE\configuration\ProgramData\stm32f8c6_hd44780/arm-gcc-link.ld -g">
-      <target file="stm32f8c6_hd44780.elf" lastModified="167155f49d9">
+      <target file="stm32f8c6_hd44780.elf" lastModified="1671606dcaa">
          <source file="..\obj\prtf.o" lastModified="166d220a3ff"/>
          <source file="..\obj\delay.o" lastModified="166d220a5cc"/>
          <source file="..\obj\stm32f10x_tim.o" lastModified="166d220a9f1"/>
@@ -11,7 +11,7 @@
          <source file="..\obj\startup_stm32f10x_md.o" lastModified="166d220afc5"/>
          <source file="..\obj\lcd_44780.o" lastModified="167112314f6"/>
          <source file="..\obj\stm32f10x_gpio.o" lastModified="166d220b40e"/>
-         <source file="..\obj\main.o" lastModified="167155f4002"/>
+         <source file="..\obj\main.o" lastModified="1671606d807"/>
          <source file="..\obj\stm32f10x_crc.o" lastModified="166d220c0a2"/>
          <source file="..\obj\stm32f10x_rcc.o" lastModified="166d220c462"/>
          <source file="..\obj\key.o" lastModified="167112325e8"/>
